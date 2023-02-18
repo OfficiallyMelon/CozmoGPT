@@ -1,6 +1,6 @@
 # CozmoGPT
 Official repo for ChatGPT On Cozmo the little robot developed by Anki
-Still In Progress!
+Makes ChatGPT show on Cozmo
 Requirements:
 Cozmo SDK
 Android or IOS device with cozmo app installed
@@ -34,6 +34,7 @@ And then paste it inbetween the '' ![image](https://user-images.githubuserconten
 then backspace if it goes to a new line
 
 Open Command Prompt then go to the directory your script was saved in CMD and type 'python ChatGPT-Cozmo.py It will launch chrome all you have to do is talk in the microphone and cozmo should reply back to you hopefully!!
+
 
 Thanks for trying this out
 ps. sub to my YT channel https://www.youtube.com/channel/UCOzlwPGqnnIQtDctzeIKNxw
