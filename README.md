@@ -12,6 +12,7 @@ Chrome or Chromium
 Python:
 `pip install PyAudio`
 `pip install SpeechRecognition`
+`pip install pyChatGPT`
 
 Open Chat.openai.com, Sign in/ sign up Create a "New Chat" and then type in this prompt
 "At the end of your responses i want you to say Either dance' happy' sad' if your response sounds happy well use Happy' if sad use Sad' same with dance'"
