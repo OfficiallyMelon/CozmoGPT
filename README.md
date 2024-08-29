@@ -1,3 +1,5 @@
+made this when i was like 11 lmao.
+so uh discontinued for sure.
 # CozmoGPT
 Official repo for ChatGPT On Cozmo the little robot developed by Anki
 Makes ChatGPT show on Cozmo
